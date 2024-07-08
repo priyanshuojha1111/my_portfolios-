@@ -11,22 +11,23 @@
       "title": "JavaScript",
       "imageSrc": "skills/javascript.png"
     },
+
+    {
+      "title": "JQuery",
+      "imageSrc": "skills/jQuery.jpeg"
+    },
+
     {
       "title": "React",
       "imageSrc": "skills/react.png"
     },
-    {
-      "title": "Node",
-      "imageSrc": "skills/node.png"
-    },
+
+    
     {
       "title":"Sql",
       "imageSrc":"skills/sql.png"
     },
-    {
-      "title": "React-Redux",
-      "imageSrc": "skills/redux.jpg"
-    },
+   
     {
       "title": "MongoDB",
       "imageSrc": "skills/mongodb.png"
@@ -35,13 +36,18 @@
       "title": "Php",
       "imageSrc": "skills/php.png"
     },
+
+    {
+      "title": "Laravel",
+      "imageSrc": "skills/laravel.jpeg"
+    },
+    
     {
       "title": "Bootstrap",
       "imageSrc": "skills/bootstrap.png"
-    }, {
-      "title": "Tailwind",
-      "imageSrc": "skills/tailwind.png"
-    }, {
+    }, 
+   
+     {
       "title": "Github",
       "imageSrc": "skills/github.png"
     },

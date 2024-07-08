@@ -1,16 +1,16 @@
 [
     {
       "id": 1,
-      "role": "Junior Software Development Engineer ",
-      "organisation": "CloudEQ",
-      "startDate": "March, 2023",
+      "role": "Junior Software Developer",
+      "organisation": "Manacle Technologies Pvt Ltd.",
+      "startDate": "March, 2024",
       "endDate": "Present",
-      "location": "Chandigarh, India",
+      "location": "Noida, India",
       "experiences": [
-        "Worked on Zabihah client Project ",
-        "Worked with thired party Tool integration"
+        "Worked on mSELL Project "
+        
       ],
-      "imageSrc": "company/cloudeq.png"
+      "imageSrc": "company/image.png"
     }
 ]
    
